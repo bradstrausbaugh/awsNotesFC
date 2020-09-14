@@ -6,7 +6,7 @@
  * 
  * For any lines in that file that contain the sub-string "~fc" (for flashcard),
  * this program inserts a "!" at the beginning of that line, just to make that line
- * more conspicuous.
+ * more conspicuous. 
  *  
  */
 
